@@ -1,4 +1,4 @@
-# Challenge ONE ConversorDeMonedas
+# Challenge ONE Conversor De Monedas
 
 Conversor de monedas utilizando Java, primer desafio de Java en el curso Alura ONE.
 
@@ -28,3 +28,5 @@ Para todas las versiones disponibles, mira los [tags en este repositorio](https:
 
 ---
 ⌨️ con ❤️ por [Jmorenx](https://github.com/Jmorenx) 😊
+
+![Imagen del conversor de monedas](https://github.com/Jmorenx/Challenge-ONE-ConversorDeMonedas/blob/master/imagen_preview.jpg)
