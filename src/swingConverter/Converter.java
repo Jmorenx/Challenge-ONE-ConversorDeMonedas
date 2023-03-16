@@ -112,6 +112,11 @@ public class Converter extends JFrame {
 		btnMenuConversorTemperatura.setBounds(77, 96, 250, 23);
 		panel.add(btnMenuConversorTemperatura);
 		
+		JLabel lblNewLabel_1 = new JLabel("Creado por: Jorge Moreno - Alura ONE");
+		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
+		lblNewLabel_1.setBounds(10, 169, 384, 14);
+		panel.add(lblNewLabel_1);
+		
 		JPanel pMoneda = new JPanel();
 		pMoneda.setBorder(new SoftBevelBorder(BevelBorder.RAISED, null, null, null, null));
 		contentPane.add(pMoneda, "tMoneda");
